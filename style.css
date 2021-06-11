@@ -76,10 +76,10 @@ li {
 	transform: translate(-330%, -30%);
 }
 
-#topBanner > div {
+/*#topBanner > div {
 	transform: translate(42%, 60%);
 }
-
+*/
 #menuIcon {
 	transform: translate(0, -20%);
 }
@@ -122,4 +122,8 @@ h2 {
 #middleBanner > div {
 	position: absolute;
 	transform: translate(120%, 0);
+}
+
+#icon{
+	transform: translate(-2%,70%);
 }
